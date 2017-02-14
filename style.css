@@ -1,0 +1,62 @@
+h1 {
+  text-align: center;;
+  font-size: 300%;
+  }
+
+h2 {
+  text-align: center;
+}
+
+.game-field {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.response-to-player {
+  text-align:center;
+  font-size: 200%;
+}
+
+.color-asked-for {
+  text-align: center;
+  font-size: 300%;
+}
+
+  .colored-square {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border: solid 1px silver;
+}
+
+.red {
+  background-color: red;
+  height: 100 px;
+  length: 40 px;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow
+}
+
+.reset {
+    background-color: white;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border: none;
+    outline-color: white;
+}
+.highlight {
+  background-color: black;
+  color: yellow;
+}
